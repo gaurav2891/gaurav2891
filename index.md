@@ -8,7 +8,7 @@
   </head>
  <body>
     <h1>My name is gaurav goyal i am the owner of this app</h1>
-    <h1>Data is been collected by users in form of comment,  Users type comment manually </h1>
+    <h1>Data is being collected by users in form of comment,  Users type comment manually </h1>
     <h1>In this app everything is legal</h1>
     <h1>Data is collected to help users for filter their customer base</h1>
     <h1>There is no third party , which collect the data from users</h1>
