@@ -11,10 +11,10 @@
     <h1>Data is being collected by users in form of comment,  Users type comment manually </h1>
     <h1>In this app everything is legal</h1>
     <h1>Data is collected to help users for filter their customer base</h1>
-    <h1>There is no third party , which collect the data from users</h1>
+    <h1>There is no third party who collect the data from users</h1>
     <h1>Users can delete their data from servers</h1>
     <h1>
-      Users can understand their rules , by just looking to the UI of mobile app
+      Users can understand their rules by just looking to the UI of mobile app
     </h1>
     <h1>
       The effective date of privacy policy is untill another update is not
