@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>MY First</title>
+    <title>PRIVACY POLICY OF KAPDAA-APP</title>
   </head>
   <body>
     <h1>1 My name is gaurav goyal i am the app owner of this app</h1>
